@@ -1,2 +1,2 @@
 # Rainbow-Poem
-Repo fr my poem
+Repo for my poem
